@@ -1,1 +1,1 @@
-# Low-rank-Semantic-Autoencoder-LSA-
+# LSA
